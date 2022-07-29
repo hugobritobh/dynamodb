@@ -1,2 +1,2 @@
 # dynamodb
-Integração com C# e boas práticas
+Integração C# com DynamoDb e boas práticas
